@@ -1,4 +1,3 @@
-
 # tx-indexer Tutorial
 
 This tutorial will guide you through building a real-time dashboard that tracks GNOT transfers on the gno.land blockchain. You'll learn how to query blockchain data, process it, and serve it through an API.
